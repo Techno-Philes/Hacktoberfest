@@ -1,5 +1,8 @@
 # Hacktoberfest
 
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/62557178/135710741-d0025563-3c92-4953-b0af-0744c0a3a992.png)
+
+
 ## What is Hactoberfest?
 
 **Hacktoberfest**, in its 8th year, is a month-long celebration of open source software run by Digital Ocean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
