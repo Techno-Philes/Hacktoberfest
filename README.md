@@ -39,4 +39,6 @@ Let's see some terms that we'll use in this competition. I know that this is so 
 -  **repository:** A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
 
-Changing this file in online Github
+## This is a demo of how to create your first pull request
+
+This change is made in TOSE - Hacktoberfest edition webinar which is happening in Discord
